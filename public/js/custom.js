@@ -3,5 +3,5 @@ var umamiScript = document.createElement('script');
 umamiScript.async = true;
 umamiScript.defer = true;
 umamiScript.src = 'https://umami.zerotrue.xyz/script.js';
-umamiScript.setAttribute('data-website-id', '04093dce-a621-4766-8ea3-4d1cec770a0a');
+umamiScript.setAttribute('data-website-id', '9fea5bd1-a6f9-43e1-9ed4-2a39ca465129');
 document.head.appendChild(umamiScript);
